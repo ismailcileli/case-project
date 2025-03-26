@@ -18,5 +18,6 @@ A single-page application to search and view movie details using the OMDb API.
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ismailcileli/invent-case.git
    cd case
+   npm run start
